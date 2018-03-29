@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#kuupäev ja aeg
+#
+dt=$(date '+%d/%m/%Y %H:%M:%S');
+echo "$dt"
+#
+#lõpp
